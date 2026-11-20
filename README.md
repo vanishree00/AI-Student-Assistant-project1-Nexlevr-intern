@@ -21,16 +21,21 @@ Users can ask questions about their assignments, due dates, and completion statu
 - google-genai
 - python-dotenv
 
+
 ## Project Structure
 
+```text
 nexlever-tool-using-ai/
 │
 ├── main.py
 ├── assignments.json
 ├── requirements.txt
-├── .env
 ├── .gitignore
 └── README.md
+```
+
+**Note:** The `.env` file is created locally to store your Gemini API key and is excluded from GitHub.
+
 
 ## Installation
 

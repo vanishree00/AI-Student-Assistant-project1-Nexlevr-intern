@@ -1,0 +1,23 @@
+
+{
+    "assignments": [
+        {
+            "subject": "Data Structures",
+            "assignment": "DSA Assignment",
+            "due_date": "2026-11-25",
+            "status": "Pending"
+        },
+        {
+            "subject": "Python Programming",
+            "assignment": "Python Mini Project",
+            "due_date": "2026-11-28",
+            "status": "Completed"
+        },
+        {
+            "subject": "Database Management",
+            "assignment": "DBMS Assignment",
+            "due_date": "2026-11-30",
+            "status": "Pending"
+        }
+    ]
+}

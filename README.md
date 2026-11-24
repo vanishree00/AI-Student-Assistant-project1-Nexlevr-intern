@@ -69,4 +69,7 @@ nexlever-tool-using-ai/
 - Develop a graphical user interface.
 
 ## Author
-Vanishree 
+Vanishree
+## Internship
+
+Developed as part of my Agentic AI Developer Internship at [NEXLEVR](https://github.com/Nexlevr).
